@@ -1,0 +1,3 @@
+C:/home/Матвей/lab_1_ASD/build/CMakeFiles/main.dir
+C:/home/Матвей/lab_1_ASD/build/CMakeFiles/edit_cache.dir
+C:/home/Матвей/lab_1_ASD/build/CMakeFiles/rebuild_cache.dir
