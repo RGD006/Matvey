@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/home/Матвей/lab_1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++20 -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\home\\Матвей\\lab_1\\main.cpp",
+  "file": "C:\\home\\Матвей\\lab_1\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/home/Матвей/lab_1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++20 -o CMakeFiles\\main.dir\\Book.cpp.obj -c C:\\home\\Матвей\\lab_1\\Book.cpp",
+  "file": "C:\\home\\Матвей\\lab_1\\Book.cpp",
+  "output": "CMakeFiles\\main.dir\\Book.cpp.obj"
+}
+]
