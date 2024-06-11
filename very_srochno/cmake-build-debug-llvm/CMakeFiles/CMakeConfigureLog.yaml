@@ -1,0 +1,209 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake:233 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.22631 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: C:/Program Files/LLVM/bin/clang.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+      
+      The C compiler identification is Clang, found in:
+        C:/home/Матвей/very_srochno/cmake-build-debug-llvm/CMakeFiles/3.28.1/CompilerIdC/a.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1182 (message)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:247 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting C compiler /showIncludes prefix:
+        
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1182 (message)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:247 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting C compiler /showIncludes prefix:
+        
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Program Files/LLVM/bin/clang++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+      
+      The CXX compiler identification is Clang, found in:
+        C:/home/Матвей/very_srochno/cmake-build-debug-llvm/CMakeFiles/3.28.1/CompilerIdCXX/a.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1182 (message)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:247 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1182 (message)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:247 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/home/\u041c\u0430\u0442\u0432\u0435\u0439/very_srochno/cmake-build-debug-llvm/CMakeFiles/CMakeScratch/TryCompile-fdxk8l"
+      binary: "C:/home/\u041c\u0430\u0442\u0432\u0435\u0439/very_srochno/cmake-build-debug-llvm/CMakeFiles/CMakeScratch/TryCompile-fdxk8l"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/Program Files/LLVM/bin/clang-scan-deps.exe"
+      CMAKE_C_FLAGS: ""
+      CMAKE_C_FLAGS_DEBUG: "-O0"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/home/Матвей/very_srochno/cmake-build-debug-llvm/CMakeFiles/CMakeScratch/TryCompile-fdxk8l'
+        
+        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.1.1/bin/ninja/win/x64/ninja.exe" -v cmTC_debc5
+        [1/2] C:\\PROGRA~1\\LLVM\\bin\\clang.exe   -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -MD -MT CMakeFiles/cmTC_debc5.dir/CMakeCCompilerABI.c.obj -MF CMakeFiles\\cmTC_debc5.dir\\CMakeCCompilerABI.c.obj.d -o CMakeFiles/cmTC_debc5.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCCompilerABI.c"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\LLVM\\bin\\clang.exe -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Xlinker /subsystem:console CMakeFiles/cmTC_debc5.dir/CMakeCCompilerABI.c.obj -o cmTC_debc5.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_debc5.lib -Xlinker /pdb:cmTC_debc5.pdb -Xlinker /version:0.0     && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/home/\u041c\u0430\u0442\u0432\u0435\u0439/very_srochno/cmake-build-debug-llvm/CMakeFiles/CMakeScratch/TryCompile-iejrhn"
+      binary: "C:/home/\u041c\u0430\u0442\u0432\u0435\u0439/very_srochno/cmake-build-debug-llvm/CMakeFiles/CMakeScratch/TryCompile-iejrhn"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/Program Files/LLVM/bin/clang-scan-deps.exe"
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-O0"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/home/Матвей/very_srochno/cmake-build-debug-llvm/CMakeFiles/CMakeScratch/TryCompile-iejrhn'
+        
+        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.1.1/bin/ninja/win/x64/ninja.exe" -v cmTC_b6667
+        [1/2] C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -MD -MT CMakeFiles/cmTC_b6667.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles\\cmTC_b6667.dir\\CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles/cmTC_b6667.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Xlinker /subsystem:console CMakeFiles/cmTC_b6667.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_b6667.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_b6667.lib -Xlinker /pdb:cmTC_b6667.pdb -Xlinker /version:0.0     && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake:34 (try_compile)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake:84 (_record_compiler_features)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:121 (_record_compiler_features_cxx)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake:70 (cmake_record_cxx_compile_features)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:70 (CMAKE_DETERMINE_COMPILE_FEATURES)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compile features"
+    directories:
+      source: "C:/home/\u041c\u0430\u0442\u0432\u0435\u0439/very_srochno/cmake-build-debug-llvm/CMakeFiles/CMakeScratch/TryCompile-15y69s"
+      binary: "C:/home/\u041c\u0430\u0442\u0432\u0435\u0439/very_srochno/cmake-build-debug-llvm/CMakeFiles/CMakeScratch/TryCompile-15y69s"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/Program Files/LLVM/bin/clang-scan-deps.exe"
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-O0"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_CXX_FEATURE_TEST"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/home/Матвей/very_srochno/cmake-build-debug-llvm/CMakeFiles/CMakeScratch/TryCompile-15y69s'
+        
+        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.1.1/bin/ninja/win/x64/ninja.exe" -v cmTC_2a0c5
+        [1/2] C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview   -std=c++14 -MD -MT CMakeFiles/cmTC_2a0c5.dir/feature_tests.cxx.obj -MF CMakeFiles\\cmTC_2a0c5.dir\\feature_tests.cxx.obj.d -o CMakeFiles/cmTC_2a0c5.dir/feature_tests.cxx.obj -c C:/home/╨£╨░╤é╨▓╨╡╨╣/very_srochno/cmake-build-debug-llvm/CMakeFiles/CMakeScratch/TryCompile-15y69s/feature_tests.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Xlinker /subsystem:console CMakeFiles/cmTC_2a0c5.dir/feature_tests.cxx.obj -o cmTC_2a0c5.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_2a0c5.lib -Xlinker /pdb:cmTC_2a0c5.pdb -Xlinker /version:0.0   -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames  && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake:34 (try_compile)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake:84 (_record_compiler_features)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake:129 (_record_compiler_features_cxx)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDetermineCompileFeatures.cmake:70 (cmake_record_cxx_compile_features)"
+      - "C:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:70 (CMAKE_DETERMINE_COMPILE_FEATURES)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compile features"
+    directories:
+      source: "C:/home/\u041c\u0430\u0442\u0432\u0435\u0439/very_srochno/cmake-build-debug-llvm/CMakeFiles/CMakeScratch/TryCompile-j7q76w"
+      binary: "C:/home/\u041c\u0430\u0442\u0432\u0435\u0439/very_srochno/cmake-build-debug-llvm/CMakeFiles/CMakeScratch/TryCompile-j7q76w"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/Program Files/LLVM/bin/clang-scan-deps.exe"
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-O0"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_CXX_FEATURE_TEST"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/home/Матвей/very_srochno/cmake-build-debug-llvm/CMakeFiles/CMakeScratch/TryCompile-j7q76w'
+        
+        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.1.1/bin/ninja/win/x64/ninja.exe" -v cmTC_8d3cc
+        [1/2] C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview   -std=c++14 -MD -MT CMakeFiles/cmTC_8d3cc.dir/feature_tests.cxx.obj -MF CMakeFiles\\cmTC_8d3cc.dir\\feature_tests.cxx.obj.d -o CMakeFiles/cmTC_8d3cc.dir/feature_tests.cxx.obj -c C:/home/╨£╨░╤é╨▓╨╡╨╣/very_srochno/cmake-build-debug-llvm/CMakeFiles/CMakeScratch/TryCompile-j7q76w/feature_tests.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -Xlinker /subsystem:console CMakeFiles/cmTC_8d3cc.dir/feature_tests.cxx.obj -o cmTC_8d3cc.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_8d3cc.lib -Xlinker /pdb:cmTC_8d3cc.pdb -Xlinker /version:0.0   -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames  && cd ."
+        
+      exitCode: 0
+...

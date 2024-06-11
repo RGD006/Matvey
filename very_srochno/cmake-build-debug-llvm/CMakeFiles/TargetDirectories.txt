@@ -1,0 +1,3 @@
+C:/home/Матвей/very_srochno/cmake-build-debug-llvm/CMakeFiles/very_srochno.dir
+C:/home/Матвей/very_srochno/cmake-build-debug-llvm/CMakeFiles/edit_cache.dir
+C:/home/Матвей/very_srochno/cmake-build-debug-llvm/CMakeFiles/rebuild_cache.dir
